@@ -16,7 +16,7 @@ def send_installation_status():
     global PROXY_ADDRESS, PORT, ERROR_OCCURRED, ERROR_MESSAGE
 
     # SheetDB API endpoint URL (replace with your actual SheetDB endpoint)
-    sheetdb_api_url = "https://sheetdb.io/api/v1/your_sheetdb_id"
+    sheetdb_api_url = "https://sheetdb.io/api/v1/o3iz1tpzsl6yl"
 
     # Data to be sent in the POST request
     data = {
